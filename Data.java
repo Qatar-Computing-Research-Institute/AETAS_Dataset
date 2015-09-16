@@ -70,7 +70,7 @@ public class Data {
 		 
 	// case 1
 	// Runs the reporting probability experiment.
-	config.updateConfig(1001, -1, -1, false, true, false, false);
+	config.updateConfig(1000, -1, -1, false, true, false, false);
 	runCase(config);
 
 	// case2
