@@ -112,7 +112,7 @@ public class Data {
 	private static void runCase(Configuration config) throws IOException {
 		// Changes the probability of change in the experiment
 		if (config.runChangeExp()) {
-			for (int ch = 0; ch <= 1001; ch += 100) {
+			for (int ch = 0; ch <= 1000; ch += 100) {
 				config.setProbChange(ch);
 				start(config);
 			}
@@ -136,7 +136,7 @@ public class Data {
 		}
 		// Changes the probability of reporting in the experiment.
 		if (config.runReportExp()) {
-			for (int re = 1001; re >= 200; re -= 100) {
+			for (int re = 1000; re >= 200; re -= 100) {
 				config.setProbReport(re);
 				start(config);
 			}
@@ -147,66 +147,86 @@ public class Data {
 			start(config);
 		}
 	}
-
+	/**
+	 * Runs a configuration. 
+	 */
 	private static void start(Configuration config) throws IOException {
 
 		Map<Integer, Long> errors = new HashMap<Integer, Long>();
-		for (long d : new long[] { 0, 100, 200 }) {
-			add(errors, d);
-			Cfg.prefix = getPrefix(config) + "\t" + (1 + d / 100);
-			Map<Integer, Long> lastChangeTime = new HashMap<Integer, Long>();
-			Map<Integer, Long> lastValue = new HashMap<Integer, Long>();
-			int maxProb = 1001;
-			Cfg.projectGranIn = (long) 1;
-			long stepCount = 30 * config.getMinChange();
-
-			StringBuffer dataContent = new StringBuffer();
-			for (int lhs = 0; lhs < config.getNumLhs(); lhs++) {
-				// prob of change is independent of sources.
-				for (long step = 1; step < stepCount; step++) {
-					// is it allowed to change?
-					lastValue = changeAspect(config, lastChangeTime, lastValue,
-							maxProb, lhs, step);
-
-					// we have a specific value that is reported by a source
-					// now.
-
-					for (int src = 0; src < config.getNumSources(); src += 1) {
-
-						// but will the source report it?
-						if (actionIsOK(config.getProbReport(), maxProb)) {
-							long val = lastValue.get(lhs);
-							// And we are going to change it with errors.
-							// should we add value error?
-							long probValueError = config.getProbValueError();
-							probValueError = errors.get(src);
-							if (actionIsOK(probValueError, maxProb)) {
-								// we add value error
-								val = genRand(val);
-							}
-							long misstep = step;
-							if (actionIsOK(config.getProbTimeError(), maxProb)) {
-								// we add time error
-								double ran = Math.random();
-								int c = 1;
-								if (ran > 0.5) {
-									// negative
-									c = -1;
-								}
-
-								misstep = step + c * new Random().nextInt(5);
-							}
-							dataContent.append(src + "\t" + lhs + "\t"
-									+ misstep + "\t" + val + "\r\n");
-						}
-					}
-					// System.out.println(err+" errors.");
-				}
-
-			}
-
-			SyntheticTimeConstraintEntrance.syn(dataContent);
+		long probValueError = config.getProbValueError();
+		// If it is not the last experiment.
+		if(!config.generalExp){
+			run(config,errors,probValueError);
 		}
+		else{
+			// it is the last experiment.
+			// ls holds the errors that we will add to each source.
+			long [] ls = new long[] { 0, 100, 200 };
+			for (long d : ls) {
+				add(errors, d);
+				run(config,errors,probValueError); 
+			}
+		}
+		
+	}
+	
+	private static void run(Configuration config, Map<Integer,Long> errors, long probValueError){
+		// Holds the last time a reference value has changed its value.
+		Map<Integer, Long> lastChangeTime = new HashMap<Integer, Long>();
+		// Holds the last attribute value of a reference value.
+		Map<Integer, Long> lastValue = new HashMap<Integer, Long>();
+		int maxProb = 1000;
+		// Sets the length of each stripe.
+		// Creates a stripe 30 times the length of the minimum change duration.
+		long stepCount = 30 * config.getMinChange();
+
+		StringBuffer dataContent = new StringBuffer();
+		
+		// For each reference value
+		for (int lhs = 0; lhs < config.getNumLhs(); lhs++) {
+		
+			for (long window = 1; window < stepCount; window++) {	
+				// prob of change is independent of sources.
+				// is it allowed to change?
+				lastValue = changeAspect(config, lastChangeTime, lastValue,
+						maxProb, lhs, window);
+				// we have a specific value that is reported by a source
+				// now.
+
+				for (int src = 0; src < config.getNumSources(); src += 1) {
+
+					// but will the source report it?
+					if (actionIsOK(config.getProbReport(), maxProb)) {
+						long val = lastValue.get(lhs);
+						// And we are going to change it with errors.
+						// should we add value error?
+						long probValueError = config.getProbValueError();
+						probValueError = errors.get(src);
+						if (actionIsOK(probValueError, maxProb)) {
+							// we add value error
+							val = genRand(val);
+						}
+						long misstep = window;
+						if (actionIsOK(config.getProbTimeError(), maxProb)) {
+							// we add time error
+							double ran = Math.random();
+							int c = 1;
+							if (ran > 0.5) {
+								// negative
+								c = -1;
+							}
+								misstep = window + c * new Random().nextInt(5);
+						}
+						dataContent.append(src + "\t" + lhs + "\t"
+								+ misstep + "\t" + val + "\r\n");
+					}
+				}
+				
+			}
+		}
+		//This commented out code is the entry point for running the temporal experiments.
+		// We are sending the file content that holds the synthetically generated input data.
+		// SyntheticTimeConstraintEntrance.syn(dataContent);
 	}
 
 	private static void add(Map<Integer, Long> errors, long x) {
@@ -221,7 +241,8 @@ public class Data {
 		errors.put(8, 300 + x);
 		errors.put(9, 500 + x);
 	}
-
+	
+	
 	private static Map<Integer, Long> changeAspect(Configuration config,
 			Map<Integer, Long> lastChangeTime, Map<Integer, Long> lastValue,
 			int maxProb, int lhs, long step) {
@@ -278,19 +299,12 @@ public class Data {
 	private static int genRand(long val) {
 		int i;
 		Random generator = new Random();
-		i = generator.nextInt(1001);
+		i = generator.nextInt(1000);
 		while (i == val) {
 			i = genRand(val);
 		}
 
 		return i;
 	}
-
-	private static String getPrefix(Configuration config) {
-		return config.getNumSources() + "\t" + config.getMinChange() + "\t"
-				+ config.getMaxHold() + "\t" + config.getProbChange() + "\t"
-				+ config.getProbValueError() + "\t" + config.getProbTimeError()
-				+ "\t" + (1000 - config.getProbReport());
-	}
-
+ 
 }
