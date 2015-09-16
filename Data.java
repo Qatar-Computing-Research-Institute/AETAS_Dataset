@@ -4,44 +4,28 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
-
-import src.org.qcri.util.Cfg;
-import src.org.qcri.util.FileUtils;
+  
 
 public class Data {
 
-	private static final boolean firstFive = false;
-
-	public static void main(String[] args) throws IOException {
-
-		Cfg.projectGranIn = Cfg.MINUTE;
-
+ 	public static void main(String[] args) throws IOException {
+ 	 
 		Configuration config = new Configuration();
-		Cfg.outputDir = Cfg.outputDir + "Stream/synthetic/";
-		initConfig(config);
-		if (firstFive) {
-			initFile(Cfg.outputDir, "resFixed.txt");
-			initFile(Cfg.outputDir, "resFixedCase1.txt");
-			initFile(Cfg.outputDir, "resFixedCase2.txt");
-			initFile(Cfg.outputDir, "resFixedCase3.txt");
-			initFile(Cfg.outputDir, "resFixedCase5.txt");
-			initFile(Cfg.outputDir, "resFixedCase4.txt");
-
-			initFile(Cfg.outputDir, "resFixedCase4_400.txt");
-			initFile(Cfg.outputDir, "resFixedCase4_800.txt");
-			initFile(Cfg.outputDir, "resFixedCase4_1000.txt");
-		}
-		initFile(Cfg.outputDir, "resFixedCase6.txt");
-
+	 	initConfig(config);
+		
+		// Sets the maximum number of sources to be 10.
 		int maxSrc = 10;
 		for (int src = 1; src <= maxSrc; src += 1) {
+			// Sets the source number in the config file.
 			config.setNumSources(src);
+			// Sets the min change duration in the experiment.
 			for (int ch = 8; ch < 20; ch += 2) {
 				long ms = System.currentTimeMillis();
 
 				config.setMinChange(ch);
-				config.setMaxHold(ch + 2);
-				System.out.println("\n" + config.getNumSources() + "\t"
+				// Sets the maximum hold duration in the experiment.
+				config.setMaxHold(ch + 5);
+				System.out.println("\nSources:" + config.getNumSources() + "\t"
 						+ config.getMinChange() + "\t" + config.getMaxHold());
 
 				cases(config);
@@ -49,76 +33,84 @@ public class Data {
 				long ms2 = System.currentTimeMillis();
 				System.out.print(" " + (ms2 - ms) / 1000.0);
 			}
-		}
-		FileUtils.closeFiles();
+		} 
 	}
-
-	private static void initFile(String dir, String file) {
-		FileUtils.resetFile(dir, file);
-		String string = "sources\tinputChange\tinputHold\tprobChange\tprobValueError\tprobTimeError\tprobReportError"
-				+ "\tMethod\tChange\tHold\tHoldMin\tHoldMax\r\n";
-		FileUtils.store(dir + file, string);
-	}
-
+	/**
+	 * Creates the initial configuration, i.e., initial paramaters to be fed into the system.
+	 * @param config a holder for the input parameters.
+	 */
+ 
 	private static void initConfig(Configuration config) {
+		// set number of reference values. These are the left hand side values.
 		config.setNumLhs(1000);
+		// stable values are the default states for the experiments.
+		//  We use these values to revert back to the default state
+		// after an experiment before another experiment starts.
 		config.setStableChange(200);
-		config.setProbChange(config.getStableChange());
 		config.setStableValueError(-1);
-		config.setProbValueError(config.getStableValueError());
 		config.setStableTimeError(-1);
+		// Set the probability of reporting to be 100%.
+		config.setStableProbReport(1000);
+		
+		
+		config.setProbChange(config.getStableChange());
+		config.setProbValueError(config.getStableValueError());
 		config.setProbTimeError(config.getStableTimeError());
-		config.setStableProbReport(1001);
 		config.setProbReport(config.getStableProbReport());
 		config.setMaxHold(9);
 	}
 
+	/**
+	 * Takes a configuration and runs experiments according to it. 
+	 * @param config input parameters for the experiment.
+	 * @throws IOException
+	 */
 	private static void cases(Configuration config) throws IOException {
 
-		if (firstFive) {
-			// case 1
-			config.updateConfig(1001, -1, -1, false, true, false, false);
-			Cfg.outputFile = "resFixedCase1.txt";
+		 
+	// case 1
+	// Runs the reporting probability experiment.
+	config.updateConfig(1001, -1, -1, false, true, false, false);
+	runCase(config);
 
-			runCase(config);
+	// case2
+	// Runs the value error probability experiment.
+	config.updateConfig(1000, -1, -1, false, false, false, true);
+	runCase(config);
 
-			// case2
-			config.updateConfig(1001, -1, -1, false, false, false, true);
-			Cfg.outputFile = "resFixedCase2.txt";
-			runCase(config);
+	// case3
+	// Runs the time error probability experiment with probability of reporting set to 100%.
+	config.updateConfig(1000, -1, -1, false, false, true, false);
+	runCase(config);
+	
+	// case4
+	// Runs the time error probability experiment with probability of reporting set to 40%.
+	config.updateConfig(40, -1, -1, false, false, true, false);
+	runCase(config);
 
-			// case3
-			config.updateConfig(1001, -1, -1, false, false, true, false);
-			Cfg.outputFile = "resFixedCase3.txt";
-			runCase(config);
-			// case4
-			config.updateConfig(40, -1, -1, false, false, true, false);
-			Cfg.outputFile = "resFixedCase4.txt";
-			runCase(config);
-
-			// case5
-			config.updateConfig(40, -1, -1, false, false, false, true);
-			Cfg.outputFile = "resFixedCase5.txt";
-			runCase(config);
-		}
-		// case 6
-		// for(
-		int prReport = 900;
-		// prReport>499;prReport-=100)
-		{
-
-			config.setProbChange(200);
-			int probValue = 100;
-			int probTime = 100;
-			config.updateConfig(prReport, probTime, probValue, true, false,
-					false, false);
-			Cfg.outputFile = "resFixedCase6.txt";
-			runCase(config);
-		}
+	// case5
+	// Runs the value error probability experiment with probability of reporting set to 40%.
+		config.updateConfig(40, -1, -1, false, false, false, true);
+	runCase(config);
+	 
+	// case 6
+	int prReport = 900;
+	config.setProbChange(200);
+	int probValue = 100;
+	int probTime = 100;
+	config.updateConfig(prReport, probTime, probValue, true, false, false, false);
+	runCase(config);
+	
 	}
 
+	/**
+	*  Takes a configuration and runs an experiment with that configuration.
+	* 
+	* @param config input params for the experiment.
+	* @throws IOException
+	*/
 	private static void runCase(Configuration config) throws IOException {
-
+		// Changes the probability of change in the experiment
 		if (config.runChangeExp()) {
 			for (int ch = 0; ch <= 1001; ch += 100) {
 				config.setProbChange(ch);
@@ -126,6 +118,7 @@ public class Data {
 			}
 			config.setProbChange(config.getStableChange());
 		}
+		// Changes the probability of time error in the experiment.
 		if (config.runValueExp()) {
 			for (int val = 0; val < 800; val += 100) {
 				config.setProbValueError(val);
@@ -133,6 +126,7 @@ public class Data {
 			}
 			config.setProbValueError(config.getStableValueError());
 		}
+		// Changes the probability of time error in the experiment.
 		if (config.runTimeExp()) {
 			for (int ti = 0; ti < 800; ti += 100) {
 				config.setProbTimeError(ti);
@@ -140,6 +134,7 @@ public class Data {
 			}
 			config.setProbTimeError(config.getStableTimeError());
 		}
+		// Changes the probability of reporting in the experiment.
 		if (config.runReportExp()) {
 			for (int re = 1001; re >= 200; re -= 100) {
 				config.setProbReport(re);
@@ -147,6 +142,7 @@ public class Data {
 			}
 			config.setProbReport(config.getStableProbReport());
 		}
+		// Used to run the last, composite experiment.
 		if (config.runGeneralExp()) {
 			start(config);
 		}
