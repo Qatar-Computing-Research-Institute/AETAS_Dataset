@@ -1,0 +1,262 @@
+7273547397716371115,http://wishtv.com/2014/08/29/kraft-recalls-some-american-singles-cheese/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273561135141195333,http://www.dallasnews.com/news/local-news/20140829-kraft-recalls-some-american-singles-cheese.ece,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273566671355276867,http://feedproxy.google.com/~r/alltribstories/~3/L7qqP4lifbA/orbitz-american-2015,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273603809949116129,http://wthitv.com/2014/08/30/kraft-recalls-some-american-singles-cheese/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273615286103511065,http://washington.cbslocal.com/2014/08/30/kraft-recalls-some-american-singles-cheese/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273625823808392122,http://krqe.com/2014/08/30/kraft-recalls-some-american-singles-cheese/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273633620251134095,http://wivb.com/2014/08/30/kraft-recalling-cheese-products/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273711332310302338,http://ktla.com/2014/08/31/kraft-recalls-thousands-of-cases-of-american-singles-cheese/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273578655408384137,http://www.pressherald.com/2014/08/30/briefcase-178/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273793566977819293,http://wivb.com/2014/09/01/kraft-recalls-some-american-singles-cheese-2/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273831771766171794,http://wgno.com/2014/09/01/kraft-recalls-more-than-7k-cases-of-cheese-singles/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273833569211588582,http://wwlp.com/2014/09/01/kraft-recalls-some-american-singles-cheese/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273834205941046487,http://koin.com/2014/09/01/kraft-recalls-some-american-singles-cheese/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,566077568,TRUE
+7273834412099314454,http://www.kvoa.com/news/kraft-singles-recall/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,1947916019,FALSE:RHS:566077568
+7273834412099314467,http://www.kvoa.com/news/kraft-singles-recall/,2014-08-29T00:00:00.000Z,day,2014-08-29T23:59:59.000Z,-1956244933,1947916019,FALSE:RHS:566077568
+7273868622596575200,http://www.wfmz.com/business/kraft-recalls-cheese-slices/27832146,2014-09-02T11:00:53.000Z,ms,2014-09-02T11:00:53.000Z,-1956244933,566077568,TRUE
+7273883797797230021,http://www.mlive.com/lansing-news/index.ssf/2014/09/select_kraft_cheeses_recalled.html,2014-09-02T14:56:26.000Z,ms,2014-09-02T14:56:26.000Z,-1956244933,566077568,TRUE
+7277881625314769799,http://www.paherald.sk.ca/Canada---World/Society/2014-10-15/article-3903948/Toyota-recalls-Lexuses-i,2014-10-15T17:10:53.000Z,ms,2014-10-15T17:10:53.000Z,1736769099,1933591063, TRUE
+7277881631759700277,http://www.ksby.com/news/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/,2014-10-15T17:10:59.000Z,ms,2014-10-15T17:10:59.000Z,1736769099,1933591063, TRUE
+7277882709790538908,http://townhall.com/news/us/2014/10/15/toyota-recalls-lexuses-in-us-for-fuel-leak-risk-n1905591,2014-10-15T17:27:43.000Z,ms,2014-10-15T17:27:43.000Z,1736769099,1933591063, TRUE
+7277882709791715629,http://muscatinejournal.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_bbc94ba,2014-10-15T17:27:43.000Z,ms,2014-10-15T17:27:43.000Z,1736769099,1933591063, TRUE
+7277882709791931493,http://host.madison.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_5243f07c-5d,2014-10-15T17:27:43.000Z,ms,2014-10-15T17:27:43.000Z,1736769099,1933591063, TRUE
+7277882709794883909,http://mtstandard.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_ca4c8e1f-0799,2014-10-15T17:27:43.000Z,ms,2014-10-15T17:27:43.000Z,1736769099,1933591063, TRUE
+7277882709797320707,http://www.journalnow.com/business/business_news/national_international_ap/toyota-recalls-lexuses-in,2014-10-15T17:27:43.000Z,ms,2014-10-15T17:27:43.000Z,1736769099,1933591063, TRUE
+7277882921317143538,http://www.macon.com/welcome_page/?shf=%252F2014%252F10%252F15%252F3364798_toyota-recalls-lexuses-in,2014-10-15T17:31:00.000Z,ms,2014-10-15T17:31:00.000Z,1736769099,1933591063, TRUE
+7277882921317617968,http://www.bellinghamherald.com/welcome_page/?shf=%252F2014%252F10%252F15%252F3914147_toyota-recalls,2014-10-15T17:31:00.000Z,ms,2014-10-15T17:31:00.000Z,1736769099,1933591063, TRUE
+7277882921320137747,http://www.sunherald.com/welcome_page/?shf=%252F2014%252F10%252F15%252F5856787_toyota-recalls-lexuse,2014-10-15T17:31:00.000Z,ms,2014-10-15T17:31:00.000Z,1736769099,1933591063, TRUE
+7277883022247727189,http://www.elkharttruth.com/news/national/2014/10/15/Toyota-recalls-Lexuses-in-US-for-fuel-leak-risk,2014-10-15T17:32:34.000Z,ms,2014-10-15T17:32:34.000Z,1736769099,1933591063, TRUE
+7277883050166908039,http://www.wfla.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T17:33:00.000Z,ms,2014-10-15T17:33:00.000Z,1736769099,1933591063, TRUE
+7277883103861366586,http://ksn.com/2014/10/15/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/,2014-10-15T17:33:50.000Z,ms,2014-10-15T17:33:50.000Z,1736769099,1933591063, TRUE
+7277883830775754771,http://www.therepublic.com/view/story/a7a4a8081451497990d0fcbec90d7b8b/US--Toyota-Recalls,2014-10-15T17:45:07.000Z,ms,2014-10-15T17:45:07.000Z,1736769099,1933591063, TRUE
+7277883846881890999,http://www.sfgate.com/news/article/Toyota-recalls-Lexuses-in-US-for-fuel-leak-risk-5824578.php,2014-10-15T17:45:22.000Z,ms,2014-10-15T17:45:22.000Z,1736769099,1933591063, TRUE
+7277883947813689063,http://gazette.com/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article/feed/168006?custom_click=,2014-10-15T17:46:56.000Z,ms,2014-10-15T17:46:56.000Z,1736769099,1933591063, TRUE
+7277884658631227020,http://www.theeagle.com/news/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_321ce7,2014-10-15T17:57:58.000Z,ms,2014-10-15T17:57:58.000Z,1736769099,1933591063, TRUE
+7277884818623933570,http://wivb.com/2014/10/15/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/,2014-10-15T18:00:27.000Z,ms,2014-10-15T18:00:27.000Z,1736769099,1933591063, TRUE
+7277884844388684038,http://www.ohio.com/business/toyota-recalls-lexuses-in-u-s-for-fuel-leak-risk-1.531952?localLinksEna,2014-10-15T18:00:51.000Z,ms,2014-10-15T18:00:51.000Z,1736769099,1933591063, TRUE
+7277884963574074121,http://www.theolympian.com/welcome_page/?shf=/2014/10/15/3372282_toyota-recalls-lexuses-in-us-for.ht,2014-10-15T18:02:42.000Z,ms,2014-10-15T18:02:42.000Z,1736769099,1933591063, TRUE
+7277884996860116753,http://www.thenewstribune.com/welcome_page/?shf=/2014/10/15/3433414_toyota-recalls-lexuses-in-us-for,2014-10-15T18:03:13.000Z,ms,2014-10-15T18:03:13.000Z,1736769099,1933591063, TRUE
+7277885004379215682,http://missoulian.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_b30dd899-9938,2014-10-15T18:03:20.000Z,ms,2014-10-15T18:03:20.000Z,1736769099,1933591063, TRUE
+7277885004380395857,http://www.krmg.com/ap/ap/top-news/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/nhjtd/,2014-10-15T18:03:20.000Z,ms,2014-10-15T18:03:20.000Z,1736769099,1933591063, TRUE
+7277885004381721409,http://www.gettysburgtimes.com/news/business/article_4f33b2dd-16de-55ed-9262-5f0dae8ea07a.html,2014-10-15T18:03:20.000Z,ms,2014-10-15T18:03:20.000Z,1736769099,1933591063, TRUE
+7277885004383427579,http://www.palmbeachpost.com/ap/ap/top-news/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/nhjtd/,2014-10-15T18:03:20.000Z,ms,2014-10-15T18:03:20.000Z,1736769099,1933591063, TRUE
+7277885004383627927,http://magicvalley.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_25c50205-3a5,2014-10-15T18:03:20.000Z,ms,2014-10-15T18:03:20.000Z,1736769099,1933591063, TRUE
+7277885004385407424,http://www.ivpressonline.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_928454,2014-10-15T18:03:20.000Z,ms,2014-10-15T18:03:20.000Z,1736769099,1933591063, TRUE
+7277885004388729458,http://www.newsadvance.com/work_it_lynchburg/news/wire/toyota-recalls-lexuses-in-us-for-fuel-leak-ri,2014-10-15T18:03:20.000Z,ms,2014-10-15T18:03:20.000Z,1736769099,1933591063, TRUE
+7277885004389933168,http://www.thecourierexpress.com/business/article_db99561c-bca3-5a2d-a93a-97b1c85bc107.html,2014-10-15T18:03:20.000Z,ms,2014-10-15T18:03:20.000Z,1736769099,1933591063, TRUE
+7277885016191622336,http://news.yahoo.com/toyota-recalls-lexuses-us-fuel-172816926.html,2014-10-15T18:03:31.000Z,ms,2014-10-15T18:03:31.000Z,1736769099,1933591063, TRUE
+7277885016194431152,https://my.news.yahoo.com/toyota-recalls-lexuses-us-fuel-172816926.html,2014-10-15T18:03:31.000Z,ms,2014-10-15T18:03:31.000Z,1736769099,1933591063, TRUE
+7277885022635140336,http://kansasfirstnews.com/2014/10/15/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/,2014-10-15T18:03:37.000Z,ms,2014-10-15T18:03:37.000Z,1736769099,1933591063, TRUE
+7277885072024214791,http://cnsnews.com/news/article/toyota-recalls-lexuses-us-fuel-leak-risk,2014-10-15T18:04:23.000Z,ms,2014-10-15T18:04:23.000Z,1736769099,1933591063, TRUE
+7277885084906981834,http://www.star-telegram.com/2014/10/15/6202877/toyota-recalls-lexuses-in-us-for.html,2014-10-15T18:04:35.000Z,ms,2014-10-15T18:04:35.000Z,1736769099,1933591063, TRUE
+7277885149331521829,http://www.starherald.com/news/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_5eb8,2014-10-15T18:05:35.000Z,ms,2014-10-15T18:05:35.000Z,1736769099,1933591063, TRUE
+7277885199797420798,http://www.themonitor.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_c90fb4a1-,2014-10-15T18:06:22.000Z,ms,2014-10-15T18:06:22.000Z,1736769099,1933591063, TRUE
+7277885268516960852,http://www.baynews9.com/content/news/baynews9/news/article.html/content/news/articles/ap/2014/10/15/,2014-10-15T18:07:26.000Z,ms,2014-10-15T18:07:26.000Z,1736769099,1933591063, TRUE
+7277885272811929544,http://www.chron.com/business/article/Toyota-recalls-Lexuses-in-US-for-fuel-leak-risk-5824578.php?Wo,2014-10-15T18:07:30.000Z,ms,2014-10-15T18:07:30.000Z,1736769099,1933591063, TRUE
+7277885278180642760,http://www.beaumontenterprise.com/news/article/Toyota-recalls-Lexuses-in-US-for-fuel-leak-risk-58245,2014-10-15T18:07:35.000Z,ms,2014-10-15T18:07:35.000Z,1736769099,1933591063, TRUE
+7277885387702410077,http://www.bostonherald.com/news_opinion/national/2014/10/toyota_recalls_lexuses_in_us_for_fuel_leak,2014-10-15T18:09:17.000Z,ms,2014-10-15T18:09:17.000Z,1736769099,1933591063, TRUE
+7277885409177243193,http://www.dailymail.co.uk/wires/ap/article-2794428/Toyota-recalls-Lexuses-US-fuel-leak-risk.html?IT,2014-10-15T18:09:37.206Z,ms,2014-10-15T18:09:37.206Z,1736769099,1933591063, TRUE
+7277885410250983773,http://www.neurope.eu/news/wire/toyota-recalls-lexuses-us-fix-fuel-line-gasket-among-3-recalls-total,2014-10-15T18:09:38.000Z,ms,2014-10-15T18:09:38.000Z,1736769099,1933591063, TRUE
+7277885439242034425,http://www.nwitimes.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_1f0dc36b-ee,2014-10-15T18:10:05.000Z,ms,2014-10-15T18:10:05.000Z,1736769099,1933591063, TRUE
+7277885443536991460,http://www.sacbee.com/2014/10/15/6783824/toyota-recalls-lexuses-in-us-for.html#mi_rss=Wire%20Nation/,2014-10-15T18:10:09.000Z,ms,2014-10-15T18:10:09.000Z,1736769099,1933591063, TRUE
+7277885445684487494,http://www.theolympian.com/welcome_page/?shf=/2014/10/15/3372282_toyota-recalls-lexuses-in-us-for.ht,2014-10-15T18:10:11.000Z,ms,2014-10-15T18:10:11.000Z,1736769099,1933591063, TRUE
+7277885466091429512,http://www.katc.com/news/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/,2014-10-15T18:10:30.000Z,ms,2014-10-15T18:10:30.000Z,1736769099,1933591063, TRUE
+7277885483265460462,http://www.newspressnow.com/news/business/ap/article_91dff4b4-0a05-5048-9fd0-75eb7e67bce6.html,2014-10-15T18:10:46.000Z,ms,2014-10-15T18:10:46.000Z,1736769099,1933591063, TRUE
+7277885487560438109,http://hosted2.ap.org/RIPRJ/365856ab22144091bcb2622414c99806/Article_2014-10-15-US--Toyota%20Recalls,2014-10-15T18:10:50.000Z,ms,2014-10-15T18:10:50.000Z,1736769099,1933591063, TRUE
+7277885530510136550,http://www.ledger-enquirer.com/welcome_page/?shf=/2014/10/15/3357891_toyota-recalls-lexuses-in-us-fo,2014-10-15T18:11:30.000Z,ms,2014-10-15T18:11:30.000Z,1736769099,1933591063, TRUE
+7277885546616275342,http://www.tri-cityherald.com/welcome_page/?shf=/2014/10/15/3204879_toyota-recalls-lexuses-in-us-for,2014-10-15T18:11:45.000Z,ms,2014-10-15T18:11:45.000Z,1736769099,1933591063, TRUE
+7277885576681065912,http://www.moultonadvertiser.com/news/national/article_cc2efcc3-7566-54ca-838e-1dcacca7b8e6.html,2014-10-15T18:12:13.000Z,ms,2014-10-15T18:12:13.000Z,1736769099,1933591063, TRUE
+7277885627148174822,http://www.fox10phoenix.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T18:13:00.000Z,ms,2014-10-15T18:13:00.000Z,1736769099,1933591063, TRUE
+7277885627148537576,http://www.statejournal.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T18:13:00.000Z,ms,2014-10-15T18:13:00.000Z,1736769099,1933591063, TRUE
+7277885627148794870,http://www.keyc.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T18:13:00.000Z,ms,2014-10-15T18:13:00.000Z,1736769099,1933591063, TRUE
+7277885627148872722,http://www.myfoxorlando.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T18:13:00.000Z,ms,2014-10-15T18:13:00.000Z,1736769099,1933591063, TRUE
+7277885627148881232,http://www.fox5vegas.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T18:13:00.000Z,ms,2014-10-15T18:13:00.000Z,1736769099,1933591063, TRUE
+7277885627150286907,http://www.kswo.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T18:13:00.000Z,ms,2014-10-15T18:13:00.000Z,1736769099,1933591063, TRUE
+7277885627150843284,http://www.wafb.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T18:13:00.000Z,ms,2014-10-15T18:13:00.000Z,1736769099,1933591063, TRUE
+7277885627153479189,http://www.wistv.com/story/26794495/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-15T18:13:00.000Z,ms,2014-10-15T18:13:00.000Z,1736769099,1933591063, TRUE
+7277885665801711131,http://feedproxy.google.com/~r/IdahostatesmanUsNews/~3/HNSsY7eWrbg/toyota-recalls-lexuses-in-us-for.,2014-10-15T18:13:36.000Z,ms,2014-10-15T18:13:36.000Z,1736769099,1933591063, TRUE
+7277885701235238112,http://www.northjersey.com/news/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk-1.1109838,2014-10-15T18:14:09.000Z,ms,2014-10-15T18:14:09.000Z,1736769099,1933591063, TRUE
+7277885714120123347,http://www.journal-news.com/ap/ap/top-news/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/nhjtd/,2014-10-15T18:14:21.000Z,ms,2014-10-15T18:14:21.000Z,1736769099,1933591063, TRUE
+7277885721636325178,http://www.brandonsun.com/business/breaking-news/toyota-recalls-lexus-models-in-us-degraded-gasket-c,2014-10-15T18:14:28.000Z,ms,2014-10-15T18:14:28.000Z,1736769099,1933591063, TRUE
+7277885816125679075,http://bismarcktribune.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_58861d74,2014-10-15T18:15:56.000Z,ms,2014-10-15T18:15:56.000Z,1736769099,1933591063, TRUE
+7277885818273152010,http://www.dailyprogress.com/news/business/cbj/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/artic,2014-10-15T18:15:58.000Z,ms,2014-10-15T18:15:58.000Z,1736769099,1933591063, TRUE
+7277885818273160475,http://thetandd.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_217615fc-7bbd-5,2014-10-15T18:15:58.000Z,ms,2014-10-15T18:15:58.000Z,1736769099,1933591063, TRUE
+7277885819346894166,http://cumberlink.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_b35ea3f7-cf48,2014-10-15T18:15:59.000Z,ms,2014-10-15T18:15:59.000Z,1736769099,1933591063, TRUE
+7277885819346901359,http://www.gazettetimes.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_591c962,2014-10-15T18:15:59.000Z,ms,2014-10-15T18:15:59.000Z,1736769099,1933591063, TRUE
+7277885820420643805,http://democratherald.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_18adeec8-,2014-10-15T18:16:00.000Z,ms,2014-10-15T18:16:00.000Z,1736769099,1933591063, TRUE
+7277885820420650623,http://www.valleymorningstar.com/news/business_news/article_a3906f57-8f37-5eac-9c42-14c184634be3.htm,2014-10-15T18:16:00.000Z,ms,2014-10-15T18:16:00.000Z,1736769099,1933591063, TRUE
+7277885824715615975,http://thesouthern.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_f019b3c4-38f,2014-10-15T18:16:04.000Z,ms,2014-10-15T18:16:04.000Z,1736769099,1933591063, TRUE
+7277885824715621184,http://siouxcityjournal.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_b726072,2014-10-15T18:16:04.000Z,ms,2014-10-15T18:16:04.000Z,1736769099,1933591063, TRUE
+7277885827936857665,http://dailyjournalonline.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_3cb3f,2014-10-15T18:16:07.000Z,ms,2014-10-15T18:16:07.000Z,1736769099,1933591063, TRUE
+7277885829010596274,http://trib.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_0e69b5f9-596a-596f-,2014-10-15T18:16:08.000Z,ms,2014-10-15T18:16:08.000Z,1736769099,1933591063, TRUE
+7277885852632945226,http://billingsgazette.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_c884c83f,2014-10-15T18:16:30.000Z,ms,2014-10-15T18:16:30.000Z,1736769099,1933591063, TRUE
+7277885854780454761,http://www.dailyjournal.net/view/story/a7a4a8081451497990d0fcbec90d7b8b/US--Toyota-Recalls/,2014-10-15T18:16:32.000Z,ms,2014-10-15T18:16:32.000Z,1736769099,1933591063, TRUE
+7277885860149150448,http://www.pantagraph.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_d0c14892-,2014-10-15T18:16:37.000Z,ms,2014-10-15T18:16:37.000Z,1736769099,1933591063, TRUE
+7277886013694354516,http://www.ajc.com/ap/ap/top-news/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/nhjtd/,2014-10-15T18:19:00.000Z,ms,2014-10-15T18:19:00.000Z,1736769099,1933591063, TRUE
+7277886050201614930,http://finance.yahoo.com/news/toyota-recalls-lexuses-us-fuel-172816926.html,2014-10-15T18:19:34.000Z,ms,2014-10-15T18:19:34.000Z,1736769099,1933591063, TRUE
+7277886051275355630,http://www.centredaily.com/welcome_page/?shf=/2014/10/15/4405636_toyota-recalls-lexuses-in-us-for.ht,2014-10-15T18:19:35.000Z,ms,2014-10-15T18:19:35.000Z,1736769099,1933591063, TRUE
+7277886077045199624,http://www.sunherald.com/welcome_page/?shf=/2014/10/15/5856787_toyota-recalls-lexuses-in-us-for.html,2014-10-15T18:19:59.000Z,ms,2014-10-15T18:19:59.000Z,1736769099,1933591063, TRUE
+7277886109257474051,http://hosted.ap.org/dynamic/stories/U/US_TOYOTA_RECALLS?SITE=RIPRJ&SECTION=HOME&TEMPLATE=DEFAULT&CT,2014-10-15T18:20:29.000Z,ms,2014-10-15T18:20:29.000Z,1736769099,1933591063, TRUE
+7277886114626190525,http://www.timesdaily.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_de3e3374-,2014-10-15T18:20:34.000Z,ms,2014-10-15T18:20:34.000Z,1736769099,1933591063, TRUE
+7277886161870881904,http://www.stltoday.com/business/national-and-international/toyota-recalls-lexuses-in-us-for-fuel-le,2014-10-15T18:21:18.000Z,ms,2014-10-15T18:21:18.000Z,1736769099,1933591063, TRUE
+7277886164018366446,http://www.greenfieldreporter.com/view/story/a7a4a8081451497990d0fcbec90d7b8b/US--Toyota-Recalls,2014-10-15T18:21:20.000Z,ms,2014-10-15T18:21:20.000Z,1736769099,1933591063, TRUE
+7277886253138971643,http://www.journalreview.com/business/article_a246083c-e498-525d-be17-8e10d30b7e13.html,2014-10-15T18:22:43.000Z,ms,2014-10-15T18:22:43.000Z,1736769099,1933591063, TRUE
+7277886255286470051,http://www.bellinghamherald.com/welcome_page/?shf=/2014/10/15/3914147_toyota-recalls-lexuses-in-us-f,2014-10-15T18:22:45.000Z,ms,2014-10-15T18:22:45.000Z,1736769099,1933591063, TRUE
+7277886267097639385,http://azdailysun.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_4520db8b-b537,2014-10-15T18:22:56.000Z,ms,2014-10-15T18:22:56.000Z,1736769099,1933591063, TRUE
+7277886297162426939,http://www.lakewyliepilot.com/welcome_page/?shf=/2014/10/15/2634829_toyota-recalls-lexuses-in-us-for,2014-10-15T18:23:24.000Z,ms,2014-10-15T18:23:24.000Z,1736769099,1933591063, TRUE
+7277886304678623071,http://www.scsun-news.com/silver_city-business/ci_26732516?source=rss,2014-10-15T18:23:31.000Z,ms,2014-10-15T18:23:31.000Z,1736769099,1933591063, TRUE
+7277886438896434810,http://www.winonadailynews.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_8dcf,2014-10-15T18:25:36.000Z,ms,2014-10-15T18:25:36.000Z,1736769099,1933591063, TRUE
+7277886442117680064,http://tdn.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_eae4dd2f-8b4b-58cd-a,2014-10-15T18:25:39.000Z,ms,2014-10-15T18:25:39.000Z,1736769099,1933591063, TRUE
+7277886448560136874,http://www.sltrib.com/sltrib/money/58525054-79/toyota-fuel-2010-cars.html.csp,2014-10-15T18:25:45.000Z,ms,2014-10-15T18:25:45.000Z,1736769099,1933591063, TRUE
+7277886485067364325,http://lompocrecord.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_78db1768-65,2014-10-15T18:26:19.000Z,ms,2014-10-15T18:26:19.000Z,1736769099,1933591063, TRUE
+7277886497952331160,http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11343249&ref=rss,2014-10-15T18:26:31.000Z,ms,2014-10-15T18:26:31.000Z,1736769099,1933591063, TRUE
+7277886499026043663,http://www.seattlepi.com/news/article/Toyota-recalls-Lexuses-in-US-for-fuel-leak-risk-5824578.php,2014-10-15T18:26:32.000Z,ms,2014-10-15T18:26:32.000Z,1736769099,1933591063, TRUE
+7277886563450570818,http://www.journalnow.com/business/national_international_ap/toyota-recalls-lexuses-in-us-for-fuel-l,2014-10-15T18:27:32.000Z,ms,2014-10-15T18:27:32.000Z,1736769099,1933591063, TRUE
+7277886633243849296,http://www.dailyamerican.com/news/business/nation/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/ar,2014-10-15T18:28:37.000Z,ms,2014-10-15T18:28:37.000Z,1736769099,1933591063, TRUE
+7277886639686285502,http://poststar.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_edd908f9-cacf-5,2014-10-15T18:28:43.000Z,ms,2014-10-15T18:28:43.000Z,1736769099,1933591063, TRUE
+7277886694447150642,http://www.decaturdaily.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_53c8c84,2014-10-15T18:29:34.000Z,ms,2014-10-15T18:29:34.000Z,1736769099,1933591063, TRUE
+7277886904900966483,http://www.macombdaily.com/general-news/20141015/toyota-recalls-400k-lexuses-in-us-for-fuel-leak-ris,2014-10-15T18:32:50.000Z,ms,2014-10-15T18:32:50.000Z,1736769099,1933591063, TRUE
+7277886965037161147,http://www.hayspost.com/2014/10/15/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/,2014-10-15T18:33:46.000Z,ms,2014-10-15T18:33:46.000Z,1736769099,1933591063, TRUE
+7277887015496141413,http://www.thedailycitizen.com/business/article_b10725a3-2d3d-57df-a50b-8270a0e49db2.html,2014-10-15T18:34:33.000Z,ms,2014-10-15T18:34:33.000Z,1736769099,1933591063, TRUE
+7277887082068166816,http://www.oaoa.com/news/business/article_718ac03b-f3cf-5ff6-9bc1-fa9827f44e1d.html,2014-10-15T18:35:35.000Z,ms,2014-10-15T18:35:35.000Z,1736769099,1933591063, TRUE
+7277887204474808491,http://santamariatimes.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_ce91fbdf,2014-10-15T18:37:29.000Z,ms,2014-10-15T18:37:29.000Z,1736769099,1933591063, TRUE
+7277887378421083561,http://lacrossetribune.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_2ee1e963,2014-10-15T18:40:11.000Z,ms,2014-10-15T18:40:11.000Z,1736769099,1933591063, TRUE
+7277887512638896131,http://mobile.goerie.com/?articleRedirect=1&url=http://www.goerie.com/article/20141015/APA/310159743,2014-10-15T18:42:16.000Z,ms,2014-10-15T18:42:16.000Z,1736769099,1933591063, TRUE
+7277887610349506700,http://www.maysville-online.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_13c,2014-10-15T18:43:47.000Z,ms,2014-10-15T18:43:47.000Z,1736769099,1933591063, TRUE
+7277887625381883618,http://www.heraldextra.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_05a47534,2014-10-15T18:44:01.000Z,ms,2014-10-15T18:44:01.000Z,1736769099,1933591063, TRUE
+7277887636119311673,http://rapidcityjournal.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_15f7d7a,2014-10-15T18:44:11.000Z,ms,2014-10-15T18:44:11.000Z,1736769099,1933591063, TRUE
+7277887681216488244,http://qctimes.com/business/toyota-recalls-lexuses-in-us-for-fuel-leak-risk/article_f8c93fd6-1c9e-57,2014-10-15T18:44:53.000Z,ms,2014-10-15T18:44:53.000Z,1736769099,1933591063, TRUE
+7277887856236496215,http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11343249&ref=rss,2014-10-15T18:47:36.000Z,ms,2014-10-15T18:47:36.000Z,1736769099,1933591063, TRUE
+7277888404922795127,http://www.chieftain.com/news/nation/2980359-120/recall-toyota-2010-fuel,2014-10-15T18:56:07.000Z,ms,2014-10-15T18:56:07.000Z,1736769099,1933591063, TRUE
+7277888404923617426,http://www.chieftain.com/news/nationworld/2980359-120/recall-toyota-2010-fuel,2014-10-15T18:56:07.000Z,ms,2014-10-15T18:56:07.000Z,1736769099,1933591063, TRUE
+7277888929978936248,http://www.themorningsun.com/general-news/20141015/toyota-recalls-400k-lexuses-in-us-for-fuel-leak-r,2014-10-15T19:04:16.000Z,ms,2014-10-15T19:04:16.000Z,1736769099,1933591063, TRUE
+7277889190898323275,http://www.theoaklandpress.com/general-news/20141015/toyota-recalls-400k-lexuses-in-us-for-fuel-leak,2014-10-15T19:08:19.000Z,ms,2014-10-15T19:08:19.000Z,1736769099,1933591063, TRUE
+7277889356255590890,http://www.theguardian.pe.ca/Canada---World/Society/2014-10-15/article-3903948/Toyota-recalls-Lexuse,2014-10-15T19:10:53.000Z,ms,2014-10-15T19:10:53.000Z,1736769099,1933591063, TRUE
+7277889356256387380,http://www.capebretonpost.com/Canada---World/Society/2014-10-15/article-3903948/Toyota-recalls-Lexus,2014-10-15T19:10:53.000Z,ms,2014-10-15T19:10:53.000Z,1736769099,1933591063, TRUE
+7277889356258667599,http://www.journalpioneer.com/Canada---World/Society/2014-10-15/article-3903948/Toyota-recalls-Lexus,2014-10-15T19:10:53.000Z,ms,2014-10-15T19:10:53.000Z,1736769099,1933591063, TRUE
+7277889356258906239,http://www.trurodaily.com/Canada---World/Society/2014-10-15/article-3903948/Toyota-recalls-Lexuses-i,2014-10-15T19:10:53.000Z,ms,2014-10-15T19:10:53.000Z,1736769099,1933591063, TRUE
+7277890065998442075,http://www.chieftain.com/business/2980359-120/recall-toyota-2010-fuel,2014-10-15T19:21:54.000Z,ms,2014-10-15T19:21:54.000Z,1736769099,1933591063, TRUE
+7277890525560222321,http://www.taiwannews.com.tw/etn/news_content.php?id=2594772,2014-10-15T19:29:02.000Z,ms,2014-10-15T19:29:02.000Z,1736769099,1933591063, TRUE
+7277890769299774907,http://business-news.thestreet.com/morning-sun/story/toyota-recalls-400k-lexuses-us-fuel-leak-risk/1,2014-10-15T19:32:49.000Z,ms,2014-10-15T19:32:49.000Z,1736769099,1933591063, TRUE
+7277890937877359938,http://www.thetelegram.com/Canada---World/Society/2014-10-15/article-3903948/Toyota-recalls-Lexuses-,2014-10-15T19:35:26.000Z,ms,2014-10-15T19:35:26.000Z,1736769099,1933591063, TRUE
+7277892262884461799,http://www.japantimes.co.jp/news/2014/10/16/business/toyota-recalls-lexuses-u-s-fuel-leak-risk/?amp%,2014-10-15T19:56:00.000Z,ms,2014-10-15T19:56:00.000Z,1736769099,1933591063, TRUE
+7277894760400552585,http://www.japantimes.co.jp/news/2014/10/16/business/toyota-recalls-lexuses-u-s-fuel-leak-risk/?utm_,2014-10-15T20:34:46.000Z,ms,2014-10-15T20:34:46.000Z,1736769099,1933591063, TRUE
+7277896769377990948,http://www.kbtx.com/home/headlines/Toyota-Recalls-Lexuses-in-US-for-Fuel-Leak-Risk-279343832.html,2014-10-15T21:05:57.000Z,ms,2014-10-15T21:05:57.000Z,1736769099,1933591063, TRUE
+7277902892928144627,http://finance.yahoo.com/news/toyota-recalls-lexuses-u-224100964.html,2014-10-15T22:41:00.000Z,ms,2014-10-15T22:41:00.000Z,1736769099,1933591063, TRUE
+7277921163681981921,http://www.wifr.com/home/headlines/Toyota-recalls-Lexuses-in-US-for-fuel-leak-risk-279380292.html,2014-10-16T03:24:36.000Z,ms,2014-10-16T03:24:36.000Z,1736769099,1933591063, TRUE
+7277929401427341690,http://www.wifr.com/news/headlines/Toyota-recalls-Lexuses-in-US-for-fuel-leak-risk-279380292.html,2014-10-16T05:32:28.665Z,ms,2014-10-16T05:32:28.665Z,1736769099,1933591063, TRUE
+7277985853438968050,http://www.presstelegram.com/general-news/20141016/toyota-recalls-lexuses-in-us-for-fuel-leak-risk,2014-10-16T20:08:43.000Z,ms,2014-10-16T20:08:43.000Z,1736769099,1933591063, TRUE
+7277918841172447745,http://www.winnipegfreepress.com/business/canadian-company-submits-revised-plan-for-developing-upper,2014-10-16T00:00:00.000Z,day,2014-10-16T23:59:59.000Z,1736769099,1933591063, TRUE
+7271652792062660359,http://www.autonews.com/article/20140809/OEM11/140809790/vw-recalls-189000-tiguan-suvs-in-n-america-,2014-08-09T13:46:40.000Z,ms,2014-08-09T13:46:40.000Z,-1789964880,107196571,TRUE
+7271682853623918722,http://snfn.com/index.php/2014/08/09/volkswagen-recalls-151000-tiguan-suvs-nbcnews-com/,2014-08-09T21:33:17.000Z,ms,2014-08-09T21:33:17.000Z,-1789964880,107196571,TRUE
+7271672539255711275,http://www.marketwatch.com/News/Story/Story.aspx?guid=8E6E99FA-1FE1-11E4-9476-00212803FAD6&siteid=yh,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271672539256614511,http://www.marketwatch.com/news/story.asp?guid=%7B8E6E99FA-1FE1-11E4-9476-00212803FAD6%7D&siteid=rss,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271672769036221205,http://www.marketwatch.com/story/volkswagen-of-america-recalls-189000-suvs-2014-08-09?link=MW_latest,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271672988079616896,http://www.marketwatch.com/story/volkswagen-of-america-recalls-189000-suvs-2014-08-09,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271673092232632720,http://www.marketwatch.com/story/volkswagen-of-america-recalls-189000-suvs-2014-08-09?siteid=yhoof2,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271674143426218624,http://www.marketwatch.com/story/volkswagen-of-america-recalls-189000-suvs-2014-08-09?siteid=rss&rss,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271685506841767474,http://www.californiatelegraph.com/index.php/sid/224599323/scat/6034630751577834,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271685506841769254,http://www.birminghamstar.com/index.php/sid/224599323/scat/6034630751577834,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271694367334226900,http://www.zennie62blog.com/2014/08/10/vw-recalls-tiguan-for-fuel-system-problem-routan-for-ignition,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,284897443,FALSE:RHS:107196571
+7271698355210487697,http://snfn.com/index.php/2014/08/10/vw-recalls-tiguan-for-fuel-system-problem-routan-for-ignition-p,2014-08-09T00:00:00.000Z,day,2014-08-09T23:59:59.000Z,-1789964880,107196571,TRUE
+7271704101879009317,http://www.rttnews.com/story.aspx?Id=2367482,2014-08-10T03:03:06.000Z,ms,2014-08-10T03:03:06.000Z,-1789964880,107196571,TRUE
+7271704464802376339,http://www.ohio.com/news/nation/volkswagen-recalls-tiguan-suvs-for-fuel-systems-1.512311?localLinksE,2014-08-10T03:08:44.000Z,ms,2014-08-10T03:08:44.000Z,-1789964880,107196571,TRUE
+7271705190653238397,http://www.finanznachrichten.de/nachrichten-2014-08/31092106-volkswagen-recalls-tiguan-suvs-routan-m,2014-08-10T03:20:00.000Z,ms,2014-08-10T03:20:00.000Z,-1789964880,107196571,TRUE
+7271711626662172615,http://www.newratings.com/en/main/company_headline.m?nid=5879605,2014-08-10T04:59:54.609Z,ms,2014-08-10T04:59:54.609Z,-1789964880,107196571,TRUE
+7271732354179178902,http://seekingalpha.com/news/1920595-vw-recalls-189k-vehicles-in-north-america?source=feed,2014-08-10T10:21:38.000Z,ms,2014-08-10T10:21:38.000Z,-1789964880,107196571,TRUE
+7271809177183668850,http://www.panarmenian.net/eng/news/181469/,2014-08-11T06:14:05.000Z,ms,2014-08-11T06:14:05.000Z,-1789964880,107196571,TRUE
+7271809177183668854,http://www.panarmenian.net/eng/news/181469/,2014-08-11T06:14:05.000Z,ms,2014-08-11T06:14:05.000Z,-1789964880,107196571,TRUE
+7271812343648528247,http://www.hispanicbusiness.com/2014/8/10/european_stocks_seen_rising_as_risk.htm,2014-08-11T07:03:14.689Z,ms,2014-08-11T07:03:14.689Z,-1789964880,107196571,TRUE
+7271848480444350965,http://m.motortrend.com/wot/1408_volkswagen_recalls_151389_tiguan_cuvs_for_fuel_system_issue.html,2014-08-11T16:24:09.000Z,ms,2014-08-11T16:24:09.000Z,-1789964880,107196571,TRUE
+7271916382799381933,http://www.inautonews.com/recall-roundup-volkswagen-tiguan-for-fuel-bubbles,2014-08-12T09:58:08.000Z,ms,2014-08-12T09:58:08.000Z,-1789964880,107196571,TRUE
+7271944161585436428,http://www.newsforshoppers.com/volkswagen-recalls-the-tiguan-due-to-fuel-issues/36727377/,2014-08-12T17:09:19.000Z,ms,2014-08-12T17:09:19.000Z,-1789964880,107196571,TRUE
+7271755897053726706,http://www.bostonstar.com/index.php/sid/224611965/scat/420d9e49bcaa69d0,2009-01-01T00:00:00.000Z,year,2014-12-31T23:59:59.000Z,-1789964880,107196571, TRUE
+7271755897054697761,http://www.birminghamstar.com/index.php/sid/224611965/scat/154063713fe5da1f,2009-01-01T00:00:00.000Z,year,2014-12-31T23:59:59.000Z,-1789964880,107196571, TRUE
+7271856852416962490,http://kfor.com/2014/08/11/volkswagen-recalls-suvs-due-to-fuel-pump-problems/,2009-01-01T00:00:00.000Z,year,2014-12-31T23:59:59.000Z,-1789964880,107196571, TRUE
+7271893310238499065,http://www.auto123.com/en/news/recall-on-2009-2014-volkswagen-tiguan?artid=170155,2009-01-01T00:00:00.000Z,year,2014-12-31T23:59:59.000Z,-1789964880,107196571, TRUE
+7271292458281249855,http://www.tajikistannews.net/index.php/sid/224447853/scat/3a8a80d6f705f8cc,2014-08-05T16:33:33.000Z,ms,2014-08-05T16:33:33.000Z,-751191423,-1168040447,TRUE
+7271292458282818855,http://www.turkmenistannews.net/index.php/sid/224447853/scat/3a8a80d6f705f8cc,2014-08-05T16:33:33.000Z,ms,2014-08-05T16:33:33.000Z,-751191423,-1168040447,TRUE
+7271292458285002950,http://www.buenosairesnews.net/index.php/sid/224447853/scat/3a8a80d6f705f8cc,2014-08-05T16:33:33.000Z,ms,2014-08-05T16:33:33.000Z,-751191423,-1168040447,TRUE
+7271292458285531581,http://www.uzbekistannews.net/index.php/sid/224447853/scat/3a8a80d6f705f8cc,2014-08-05T16:33:33.000Z,ms,2014-08-05T16:33:33.000Z,-751191423,-1168040447,TRUE
+7271450783642208120,http://www.cnbc.com/id/101898514,2014-08-07T09:31:05.000Z,ms,2014-08-07T09:31:05.000Z,-751191423,1387328485,FALSE
+7272040020956888362,http://www.automotive-fleet.com/channel/safety-accident-management/news/story/2014/08/land-rover-rec,2014-08-23T17:57:15.499Z,ms,2014-08-23T17:57:15.499Z,-751191423,-876543524,TRUE
+7276124936442082225,http://online.wsj.com/articles/new-ford-recall-adds-to-record-year-for-industry-1411748321?mod=wsj_i,2014-09-26T18:43:29.000Z,ms,2014-09-26T18:43:29.000Z,-751191423,-876543524,TRUE
+7277783449871099122,http://www.cnbc.com/id/102086555,2014-10-14T15:47:00.000Z,ms,2014-10-14T15:47:00.000Z,-751191423,1994280018,TRUE
+7277805736471041454,http://www.californiatelegraph.com/index.php/sid/226670801/scat/6034630751577834,2014-10-14T21:32:56.000Z,ms,2014-10-14T21:32:56.000Z,-751191423,1994280018,TRUE
+7277805736471062245,http://www.birminghamstar.com/index.php/sid/226670801/scat/6034630751577834,2014-10-14T21:32:56.000Z,ms,2014-10-14T21:32:56.000Z,-751191423,1994280018,TRUE
+7278842707963498163,http://www.foodsafetynews.com/2014/10/publishers-platform-salmonella-really-should-be-an-adulterant/,2009-01-01T00:00:00.000Z,year,2009-12-31T23:59:59.000Z,-607058147,1470952096,TRUE
+7278842709037248048,http://www.foodsafetynews.com/2014/10/publishers-platform-salmonella-really-should-be-an-adulterant/,2009-01-01T00:00:00.000Z,year,2009-12-31T23:59:59.000Z,-607058147,1470952096,TRUE
+7278842707963498158,http://www.foodsafetynews.com/2014/10/publishers-platform-salmonella-really-should-be-an-adulterant/,2013-12-01T00:00:00.000Z,month,2013-12-31T23:59:59.000Z,-607058147,1569225905,TRUE
+7278842709037248043,http://www.foodsafetynews.com/2014/10/publishers-platform-salmonella-really-should-be-an-adulterant/,2013-12-01T00:00:00.000Z,month,2013-12-31T23:59:59.000Z,-607058147,1569225905,TRUE
+7272204319552316499,http://www.beaumontenterprise.com/news/article/Beef-from-2-Whole-Foods-stores-recalled-5690691.php,2014-06-01T00:00:00.000Z,month,2014-06-30T23:59:59.000Z,-607058147,880886446,TRUE
+7272204416189479365,http://www.centredaily.com/2014/08/15/4306519/beef-from-2-whole-foods-stores.html#storylink=rss,2014-06-01T00:00:00.000Z,month,2014-06-30T23:59:59.000Z,-607058147,880886446,TRUE
+7272207229392511752,http://gazette.com/beef-from-2-whole-foods-stores-recalled/article/feed/147352?custom_click=rss,2014-06-01T00:00:00.000Z,month,2014-06-30T23:59:59.000Z,-607058147,880886446,TRUE
+7272208178580695164,http://www.centredaily.com/2014/08/15/4306519/beef-from-2-whole-foods-stores.html?sp=/99/188/220/#na,2014-06-01T00:00:00.000Z,month,2014-06-30T23:59:59.000Z,-607058147,880886446,TRUE
+7272208589827511191,http://www.wbur.org/2014/08/15/beef-recall-whole-foods,2014-06-01T00:00:00.000Z,month,2014-06-30T23:59:59.000Z,-607058147,880886446,TRUE
+7272209798857804298,http://www.boston.com/business/news/2014/08/15/beef-from-whole-foods-stores-recalled/z1uRX3xjZ3qenrY,2014-06-01T00:00:00.000Z,month,2014-06-30T23:59:59.000Z,-607058147,880886446,TRUE
+7272204319552316498,http://www.beaumontenterprise.com/news/article/Beef-from-2-Whole-Foods-stores-recalled-5690691.php,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272204416189479364,http://www.centredaily.com/2014/08/15/4306519/beef-from-2-whole-foods-stores.html#storylink=rss,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272206749431764142,http://www.allvoices.com/news/17666382-beef-from-2-whole-foods-stores-recalled,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272207229392511751,http://gazette.com/beef-from-2-whole-foods-stores-recalled/article/feed/147352?custom_click=rss,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272208178580695163,http://www.centredaily.com/2014/08/15/4306519/beef-from-2-whole-foods-stores.html?sp=/99/188/220/#na,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272208589827511190,http://www.wbur.org/2014/08/15/beef-recall-whole-foods,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272209798857804297,http://www.boston.com/business/news/2014/08/15/beef-from-whole-foods-stores-recalled/z1uRX3xjZ3qenrY,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272214056251501120,http://www.foodpoisonjournal.com/foodborne-illness-outbreaks/massachusetts-whole-foods-recalls-hambu,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272215085970135180,http://www.marlerblog.com/legal-cases/three-massachusetts-e-coli-illnesses-prompts-whole-foods-groun,2014-08-15T00:00:00.000Z,day,2014-08-15T23:59:59.000Z,-607058147,880886446,TRUE
+7272189862686296820,http://www.fsis.usda.gov/wps/wcm/connect/FSIS-Content/internet/main/topics/recalls-and-public-health,2014-08-15T08:43:06.000Z,ms,2014-08-15T08:43:06.000Z,-607058147,880886446,TRUE
+7272192021981686490,http://content.govdelivery.com/accounts/USFSIS/bulletins/ca10c6,2014-08-15T09:16:37.000Z,ms,2014-08-15T09:16:37.000Z,-607058147,880886446,TRUE
+7272192705955609340,http://www.wcvb.com/health/ground-beef-sold-at-whole-foods-recalled/27503352,2014-08-15T09:27:14.000Z,ms,2014-08-15T09:27:14.000Z,-607058147,880886446,TRUE
+7272194190943302411,http://www.wcvb.com/health/ground-beef-sold-at-whole-foods-recalled/27503352?absolute=true,2014-08-15T09:50:17.000Z,ms,2014-08-15T09:50:17.000Z,-607058147,880886446,TRUE
+7272204319551182020,http://www.washingtontimes.com/news/2014/aug/15/beef-from-2-whole-foods-stores-recalled/?utm_source=,2014-08-15T12:27:30.000Z,ms,2014-08-15T12:27:30.000Z,-607058147,880886446,TRUE
+7272204416188557893,http://www.theolympian.com/2014/08/15/3270476/beef-from-2-whole-foods-stores.html#storylink=rss,2014-08-15T12:29:00.000Z,ms,2014-08-15T12:29:00.000Z,-607058147,880886446,TRUE
+7272204416188952612,http://www.ledger-enquirer.com/2014/08/15/3249157/beef-from-2-whole-foods-stores.html#storylink=rss,2014-08-15T12:29:00.000Z,ms,2014-08-15T12:29:00.000Z,-607058147,880886446,TRUE
+7272204416188953949,http://www.macon.com/2014/08/15/3250946/beef-from-2-whole-foods-stores.html#storylink=rss,2014-08-15T12:29:00.000Z,ms,2014-08-15T12:29:00.000Z,-607058147,880886446,TRUE
+7272204416189095011,http://www.bellinghamherald.com/2014/08/15/3802876/beef-from-2-whole-foods-stores.html#storylink=rss,2014-08-15T12:29:00.000Z,ms,2014-08-15T12:29:00.000Z,-607058147,880886446,TRUE
+7272204416189188026,http://www.bnd.com/2014/08/15/3351212/beef-from-2-whole-foods-stores.html#storylink=rss,2014-08-15T12:29:00.000Z,ms,2014-08-15T12:29:00.000Z,-607058147,880886446,TRUE
+7272204416191092348,http://www.kentucky.com/2014/08/15/3381194/beef-from-2-whole-foods-stores.html#storylink=rss,2014-08-15T12:29:00.000Z,ms,2014-08-15T12:29:00.000Z,-607058147,880886446,TRUE
+7272204547184329142,http://bostonherald.com/news_opinion/local_coverage/2014/08/beef_from_2_whole_foods_stores_recalled,2014-08-15T12:31:02.000Z,ms,2014-08-15T12:31:02.000Z,-607058147,880886446,TRUE
+7272205333165634682,http://www.wggb.com/2014/08/15/abc40-alert-whole-foods-beef-recalled-in-eastern-mass/,2014-08-15T12:43:14.000Z,ms,2014-08-15T12:43:14.000Z,-607058147,880886446,TRUE
+7272205993515165289,http://www.bradenton.com/2014/08/15/5304876/beef-from-2-whole-foods-stores.html#storylink=rss,2014-08-15T12:53:29.000Z,ms,2014-08-15T12:53:29.000Z,-607058147,880886446,TRUE
+7272207345357004278,http://boston.cbslocal.com/2014/08/15/whole-foods-recalls-beef-from-stores-in-newton-south-weymouth/,2014-08-15T13:14:28.000Z,ms,2014-08-15T13:14:28.000Z,-607058147,880886446,TRUE
+7272212082708248107,http://solomonswords.blogspot.com/2014/08/8-15-14-recalls.html,2014-08-15T14:28:00.000Z,ms,2014-08-15T14:28:00.000Z,-607058147,880886446,TRUE
+7272212287792975015,http://www.consumeraffairs.com/news/whole-foods-market-recalls-ground-beef-products-081514.html,2014-08-15T14:31:11.000Z,ms,2014-08-15T14:31:11.000Z,-607058147,880886446,TRUE
+7272215603508419723,http://www.marlerblog.com/legal-cases/three-massachusetts-e-coli-illnesses-prompts-whole-foods-groun,2014-08-15T15:22:39.000Z,ms,2014-08-15T15:22:39.000Z,-607058147,880886446,TRUE
+7272414592565273093,http://www.digitaljournal.com/life/food/new-usa-standard-for-ground-beef-to-avoid-bacterial-infectio,2014-08-17T18:51:22.000Z,ms,2014-08-17T18:51:22.000Z,-607058147,880886446,TRUE
+7272414756847676960,http://www.latinpost.com/articles/19428/20140817/beef-recalls-at-two-whole-foods-markets-in-new-engl,2014-08-17T18:53:55.000Z,ms,2014-08-17T18:53:55.000Z,-607058147,880886446,TRUE
+7275271135590183512,http://stlouis.cbslocal.com/2014/09/17/the-st-louis-county-grand-jury/,2014-09-17T13:50:45.000Z,ms,2014-09-17T13:50:45.000Z,-607058147,-1117578018,TRUE
+7275278228728672735,http://stlouis.cbslocal.com/2014/09/17/schnucks-issues-recall-for-ground-beef/,2014-09-17T15:40:51.000Z,ms,2014-09-17T15:40:51.000Z,-607058147,-1117578018,TRUE
+7275278228728672739,http://stlouis.cbslocal.com/2014/09/17/schnucks-issues-recall-for-ground-beef/,2014-09-17T15:40:51.000Z,ms,2014-09-17T15:40:51.000Z,-607058147,-1117578018,TRUE
+7276892780999484028,http://www.medicalnewsmediasource.com/company-recalls-ground-beef-after-metal-complaints-cnn/,2014-10-05T01:22:00.000Z,ms,2014-10-05T01:22:00.000Z,-607058147,1715867800,FALSE:RHS:1562575374
+7276913718971731105,http://keeptradingblog.com/?p=258263,2014-10-05T06:47:00.000Z,ms,2014-10-05T06:47:00.000Z,-607058147,89392902,FALSE:RHS:1562575374
+7276922480707124482,http://keeptradingblog.com/?p=258270,2014-10-05T09:03:00.000Z,ms,2014-10-05T09:03:00.000Z,-607058147,1562575374,TRUE
+7276922480707124486,http://keeptradingblog.com/?p=258270,2014-10-05T09:03:00.000Z,ms,2014-10-05T09:03:00.000Z,-607058147,1562575374,TRUE
+7277134365419198678,http://houston.culturemap.com/news/restaurants-bars/10-07-14-check-that-label-h-e-b-recalls-90000-po,2014-10-07T15:51:53.000Z,ms,2014-10-07T15:51:53.000Z,-607058147,546294796,FALSE:RHS:Sam Kane Beef Processors LLC7272623594245006523,http://bigstory.ap.org/article/peanut-almond-butter-recalled-salmonella-risk,2014-08-20T00:55:30.000Z,ms,2014-08-20T00:55:30.000Z,peanut,Hain Celestial Group, TRUE
+7272624723824188589,http://www.usnews.com/news/business/articles/2014/08/19/peanut-almond-butter-recalled-for-salmonella,2014-08-20T01:13:02.000Z,ms,2014-08-20T01:13:02.000Z,-992227583,598588373, TRUE
+7272625108223890972,http://tucson.com/ap/business/peanut-almond-butter-recalled-for-salmonella-risk/article_9a660587-ad9,2014-08-20T01:19:00.000Z,ms,2014-08-20T01:19:00.000Z,-992227583,598588373, TRUE
+7272625254249090044,http://www.ajc.com/ap/ap/top-news/peanut-almond-butter-recalled-for-salmonella-risk/ng5dg/,2014-08-20T01:21:16.000Z,ms,2014-08-20T01:21:16.000Z,-992227583,598588373, TRUE
+7272625348738411097,http://www.journal-news.com/ap/ap/top-news/peanut-almond-butter-recalled-for-salmonella-risk/ng5dg/,2014-08-20T01:22:44.000Z,ms,2014-08-20T01:22:44.000Z,-992227583,598588373, TRUE
+7272625752466562870,http://pooleobserver.co.uk/blog/2014/08/20/peanut-almond-butter-recalled-for-salmonella-risk/,2014-08-20T01:29:00.000Z,ms,2014-08-20T01:29:00.000Z,-992227583,598588373, TRUE
+7272625786826034198,http://herald-review.com/business/peanut-almond-butter-recalled-for-salmonella-risk/article_b1dae055,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7272625786826419244,http://www.gettysburgtimes.com/news/business/article_4d89cd0a-c16c-599f-b2a8-f98675509001.html,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7272625786826861535,http://www.ktvu.com/ap/ap/top-news/peanut-almond-butter-recalled-for-salmonella-risk/ng5dg/,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7272625786826913058,http://www.brownsvilleherald.com/news/business/article_432e9bda-5eab-55bd-8806-c6df4f293eb4.html,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7272625786827027895,http://www.palmbeachpost.com/ap/ap/top-news/peanut-almond-butter-recalled-for-salmonella-risk/ng5dg/,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7272625786827273733,http://www.krmg.com/ap/ap/top-news/peanut-almond-butter-recalled-for-salmonella-risk/ng5dg/,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7272625786827603098,http://www.fltimes.com/news/state/article_9cf96449-77ab-598d-a770-b6326c3c9b30.html,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7272625786831539314,http://fremonttribune.com/business/peanut-almond-butter-recalled-for-salmonella-risk/article_dbde5df,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7272625786831631961,http://www.thecourierexpress.com/business/article_e088327a-7470-5912-8080-dc8dd3370d94.html,2014-08-20T01:29:32.000Z,ms,2014-08-20T01:29:32.000Z,-992227583,598588373, TRUE
+7278728235309886125,http://www.newswire.ca/en/story/1433894/important-safety-notice-voluntary-recall-of-president-s-choi,2014-10-24T00:00:00.000Z,day,2014-10-24T23:59:59.000Z,156967516,-200259884, TRUE
+7278729292945379976,http://micro.newswire.ca/release.cgi?rkey=2210242017&view=62151-0&Start=&htm=0,2014-10-24T00:00:00.000Z,day,2014-10-24T23:59:59.000Z,156967516,-200259884, TRUE
+7278730375277670293,http://article.wn.com/view/2014/10/24/Important_Safety_Notice_Voluntary_Recall_of_Presidents_Choic/,2014-10-24T00:00:00.000Z,day,2014-10-24T23:59:59.000Z,156967516,-200259884, TRUE
+7278727913187339760,http://www.istockanalyst.com/article/viewarticle/articleid/7042680,2014-01-01T00:00:00.000Z,year,2014-12-31T23:59:59.000Z,156967516,-200259884, TRUE
+7278730834839420956,http://www.istockanalyst.com/article/viewiStockNews/articleid/7042680,2014-01-01T00:00:00.000Z,year,2014-12-31T23:59:59.000Z,156967516,-200259884, TRUE
+7278800428322690088,http://www.wawa-news.com/index.php?option=com_content&view=article&id=21361:pcr-organics-primavera-p,2015-01-01T00:00:00.000Z,year,2015-12-31T23:59:59.000Z,156967516,-200259884, FALSE
+7272589385930858388,http://www.huffingtonpost.ca/2014/08/19/brita-water-bottle-recall_n_5691528.html,2014-08-19T16:04:31.000Z,ms,2014-08-19T16:04:31.000Z,-1466500764,-66858164, TRUE
+7272589385930897260,http://www.huffingtonpost.ca/2014/08/19/brita-water-bottle-recall_n_5691528.html?utm_hp_ref=canada-b,2014-08-19T16:04:31.000Z,ms,2014-08-19T16:04:31.000Z,-1466500764,-66858164, TRUE
+7272589385948191609,http://www.huffingtonpost.ca/2014/08/19/brita-water-bottle-recall_n_5691528.html,2014-08-19T16:04:31.000Z,ms,2014-08-19T16:04:31.000Z,-1466500764,-66858164, TRUE
+7272879188846927761,http://www.chicagotribune.com/business/breaking/chi-bean-bag-recall-children-die-20140822-story.html,2014-08-22T19:02:51.000Z,ms,2014-08-22T19:02:51.000Z,-1466500764,-66858164,TRUE
+7272887865758549244,http://www.huffingtonpost.com/2014/08/22/ace-bayou-beanbag-chair-deaths_n_5701509.html?utm_hp_ref=bu,2014-08-22T21:17:32.000Z,ms,2014-08-22T21:17:32.000Z,-1466500764,1490494912, FALSE
+7272887865763600225,http://www.huffingtonpost.com/2014/08/22/ace-bayou-beanbag-chair-deaths_n_5701509.html?utm_hp_ref=bu,2014-08-22T21:17:32.000Z,ms,2014-08-22T21:17:32.000Z,-1466500764,-66858164, TRUE
+7272889289540230208,http://www.huffingtonpost.com/2014/08/22/ace-bayou-beanbag-chair-deaths_n_5701509.html,2014-08-22T21:39:38.000Z,ms,2014-08-22T21:39:38.000Z,-1466500764,1490494912, FALSE
+7272889289545233351,http://www.huffingtonpost.com/2014/08/22/ace-bayou-beanbag-chair-deaths_n_5701509.html,2014-08-22T21:39:38.000Z,ms,2014-08-22T21:39:38.000Z,-1466500764,1490494912, FALSE
+7273238880542563770,http://www.chicagotribune.com/business/breaking/sns-rt-us-usa-recall-hewlettpackard-20140826-story.h,2014-08-26T16:06:00.000Z,ms,2014-08-26T16:06:00.000Z,-1466500764,-66858164, TRUE
