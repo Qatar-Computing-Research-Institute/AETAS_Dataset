@@ -200,8 +200,9 @@ public class Data {
 						long val = lastValue.get(lhs);
 						// And we are going to change it with errors.
 						// should we add value error?
-						long probValueError = config.getProbValueError();
-						probValueError = errors.get(src);
+						if(config.generalExp){
+							probValueError = errors.get(src);
+						}
 						if (actionIsOK(probValueError, maxProb)) {
 							// we add value error
 							val = genRand(val);
