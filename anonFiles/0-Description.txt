@@ -1,0 +1,8 @@
+Each anon*.txt contains events annotated for a given event and a temporal FD. The corresponding event names and TFDs can be found in the paper (Table 1). Notice that real entity and values have been replaced with ids. This does not change the temporal semantics of the data and does not impact repeatability. 
+
+The schema is the following:
+
+event id, url, timestamp start, granularity, timestamp stop, entity id (LHS value TFD), value id (RHS value TFD), annotation
+
+for TRUE values, the following ids refer to other value ids that are correct for the current tuple
+for FALSE values, the following ids refer to the correct value id for the current tuple
